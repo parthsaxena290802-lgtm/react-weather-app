@@ -48,7 +48,7 @@ Through this project, I gained hands-on experience with:
 👨‍💻 Developer
 Parth Saxena  
 📍 VIT Vellore Graduate | React.js & Web Development Enthusiast  
-🔗 [LinkedIn](www.linkedin.com/in/parth-saxena-a29724375)  
+🔗 [LinkedIn](https://www.linkedin.com/in/parth-saxena-a29724375)
 🔗 [GitHub](https://github.com/parthsaxena290802-lgtm)  
 
 

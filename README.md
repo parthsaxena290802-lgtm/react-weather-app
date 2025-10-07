@@ -23,7 +23,7 @@ This project allows users to check current weather conditions in any city or by 
 
  Technologies Used
 - React.js
-- CSS / Tailwind (if used)
+- CSS 
 - OpenWeather API
 - Axios / Fetch API
 

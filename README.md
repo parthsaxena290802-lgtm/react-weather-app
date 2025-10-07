@@ -1,37 +1,58 @@
- 🌦️ Weather Forecast Web App
+React Weather App
 
-A responsive weather forecast web application built using React.js that provides real-time weather information for any city worldwide.  
+A weather application built with React that shows real-time weather information based on city or geolocation.
+
+ Table of Contents
+- [Project Overview](project-overview)
+- [Features](features)
+- [Technologies Used](technologies-used)
+- [Getting Started](getting-started)
+- [🧩 Learnings](-learnings)
+- [👨‍💻 Developer](-developer)
+- [🔧 Next Steps](-next-steps)
+- [References](references)
+
+ Project Overview
+This project allows users to check current weather conditions in any city or by using their location.  
+
+ Features
+- Search weather by city
+- Use browser location to get weather
+- Switch between Celsius and Fahrenheit
+- Responsive UI
+
+ Technologies Used
+- React.js
+- CSS / Tailwind (if used)
+- OpenWeather API
+- Axios / Fetch API
+
+ Getting Started
+ `npm install`
+Install dependencies.
+
+ `npm start`
+Runs the app in development mode.
+
+![Home Page Screenshot](image.png)
 
 
 
- 📘 Overview
+🧩 Learnings
+Through this project, I gained hands-on experience with:  
+- React component architecture and reusability  
+- Handling APIs and asynchronous data fetching  
+- State management using React Hooks  
+- Responsive web design and user experience optimization  
 
-This project was developed as part of my learning journey in React.js, combining front-end development skills with API integration and responsive design principles.  
-The app allows users to check real-time weather updates by entering a city name or using their current location. It fetches data through the OpenWeatherMap API and displays temperature, humidity, and other conditions in a clean, minimal interface.
-
-
-
- 🚀 Features
-
-- 🌍 Search weather by city name  
-- 📍 Get current location-based weather using browser geolocation  
-- 💨 Displays temperature, humidity, wind speed, and weather conditions  
-- 💻 Responsive and modern UI design  
-- ⚡ Real-time data fetched from OpenWeatherMap API  
+👨‍💻 Developer
+Parth Saxena  
+📍 VIT Vellore Graduate | React.js & Web Development Enthusiast  
+🔗 [LinkedIn](www.linkedin.com/in/parth-saxena-a29724375)  
+🔗 [GitHub](https://github.com/parthsaxena290802-lgtm)  
 
 
-
- 🧠 Tech Stack
-
-- Frontend: React.js, HTML5, CSS3  
-- API: OpenWeatherMap API  
-- State Management: React Hooks (`useState`, `useEffect`)  
-- Build Tool: Create React App  
-
-
-
- 💻 Installation and Setup
-
-1. Clone the repository:
-   bash
-   git clone https://github.com/yourusername/react-weather-app.git
+ References
+- [React Documentation](https://reactjs.org/)  
+- [OpenWeather API](https://openweathermap.org/api)  
+- [Create React App Docs](https://facebook.github.io/create-react-app/docs/getting-started)
